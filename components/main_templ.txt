@@ -1,0 +1,2 @@
+<html><head><title>Landing</title><script src=\"https://cdn.tailwindcss.com\"></script><script src=\"https://unpkg.com/htmx.org@1.9.12\"></script></head><body><h1>Landing</h1><p>Welcome to the landing page</p><div class=\"p-4\"><label for=\"name\">Simple button</label>
+</div></body></html>
